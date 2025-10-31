@@ -1,0 +1,15 @@
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\bin\Debug\net8.0\Calculadora 3.exe
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\bin\Debug\net8.0\Calculadora 3.deps.json
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\bin\Debug\net8.0\Calculadora 3.runtimeconfig.json
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\bin\Debug\net8.0\Calculadora 3.dll
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\bin\Debug\net8.0\Calculadora 3.pdb
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.sourcelink.json
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.dll
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\refint\Calculadora 3.dll
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.pdb
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\Calculadora 3.genruntimeconfig.cache
+C:\Users\laboratorio\Desktop\Nueva carpeta\Quiz\Calculadora 3\Calculadora 3\obj\Debug\net8.0\ref\Calculadora 3.dll
